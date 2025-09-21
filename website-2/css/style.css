@@ -1,0 +1,28 @@
+.mypic {
+	wigth:100%;
+}
+.background-photo{
+	background-image: url(../img/mainphoto.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 {
+  color: #FAA5F7;
+}
+
+ol {
+  font-weight: 200;
+}
+
+ol {
+  font-size: 40px;
+}
+.mypic {
+	wigth:100%;
+}
